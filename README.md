@@ -1,1 +1,1 @@
-# Myntra
+# fashion-recommendation-system
